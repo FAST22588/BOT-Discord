@@ -11,7 +11,7 @@ from myserver import server_on
 
 bot = commands.Bot(command_prefix='!', intents=discord.Intents.all())
 
-
+TOKEN = 'MTM2MjM3Nzg4NTExMzEyMjg4Nw.GE5DTS.0AvZkifZHv5SRSNtZS25fb0wUs0xQBzeplg6m8'
 
 # //////////////////// Bot Event /////////////////////////
 # คำสั่ง bot พร้อมใช้งานแล้ว
