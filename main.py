@@ -1,4 +1,8 @@
 import os
+
+# ติดตั้งไลบรารีทั้งหมดจากไฟล์ requirements.txt
+os.system("pip install -r requirements.txt")
+
 import discord
 from discord.ext import commands
 from discord import app_commands
